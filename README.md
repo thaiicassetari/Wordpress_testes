@@ -1,4 +1,4 @@
-# Tema do Koha-IBICT
+# Teste para Tema do Koha-IBICT
 
 TODO
 - [x] Estrutura de tema
